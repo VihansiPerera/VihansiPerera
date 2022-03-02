@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning --> C# OOP language
 - 🤔 I’m looking for help with --> Web project development 
 - 💬 Ask me about --> Anything 
-- 📫 How to reach me:
-- || EMAIL: vihansiperera01@gmail.com
+- 📫 How to reach me --> EMAIL: vihansiperera01@gmail.com
 - ⚡ Fun fact: --> I am a Song Lover 
 
 <img align='center' src="https://media0.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47k1xhvwj8snj5jrqryh5jb1pzighx8rgxwte63rh1&rid=giphy.gif&ct=ts" width="200">
