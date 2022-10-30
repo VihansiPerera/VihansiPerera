@@ -1,6 +1,6 @@
 ## <h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<h1>Iam Vihansi Perera</h1>
+<h1>I am Vihansi Perera</h1>
 
 <img align='right' src="https://media2.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e47b596davzzkj65n2frc8josr9jwcikb1zaflbjmv4&rid=giphy.gif&ct=s" width="230">
 
