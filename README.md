@@ -22,22 +22,17 @@
 <a href="https://www.facebook.com/shaun.hennedige" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Illustrator" width="40" height="40"/> </a></p>
 
 ## <h2>Skills and Experience</h2>
+
 🔴 <strong>Programming Languages</strong>
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-🔴 <strong>Frameworks</strong>
-
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 🔴 <strong>Databases</strong>
 
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 🔴 <strong>Tools and Services</strong>
